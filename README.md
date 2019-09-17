@@ -1,2 +1,2 @@
-# assig
-html css coursework assignment #1
+
+Some of my work with HTML5 and CSS while at the Tech Academy.
